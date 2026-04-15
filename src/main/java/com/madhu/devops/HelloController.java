@@ -9,6 +9,6 @@ public class HelloController {
 
     @GetMapping("/")
     public String home() {
-        return "Hello from CloudApp - Version 1";
+        return "Hello from CloudApp - Version 2";
     }
 }
